@@ -1,0 +1,1 @@
+Usando Git Bash para criar e remover arquivos e pastas. Depois upar no github, tudo pelo terminal. Treinando intro
